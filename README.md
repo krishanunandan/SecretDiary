@@ -1,8 +1,27 @@
 # 📔 SecretDiary
 
-**SecretDiary** is a modern, minimalist note-taking app built with **Jetpack Compose** and **Room Database**, designed for privacy and simplicity. It allows users to **add**, **update**, and **delete notes** with an intuitive interface — all stored locally on the device.
+SecretDiary is a privacy-focused note-taking app built with Jetpack Compose and Room Database for Android. Designed for simplicity and security, SecretDiary lets you create, update, and delete personal notes with a clean, modern interface.
+
+Whether you're journaling your thoughts or keeping important reminders, SecretDiary keeps your data securely stored on your device—without ads, tracking, or unnecessary permissions.
 
 ---
+
+🔐 Why SecretDiary?
+In an age of cloud-based apps and data tracking, SecretDiary puts your privacy first. Your notes are stored locally and offline, giving you complete control. Upcoming features like Fingerprint/PIN App Lock and Google Drive Sync will provide an extra layer of security and convenience.
+
+💡 Built With Modern Android Tools
+Jetpack Compose for a fast, beautiful, and responsive UI
+
+Room Database for reliable offline storage
+
+Kotlin + MVVM architecture for clean and scalable code
+
+🚀 Our Mission
+We believe digital journaling should be secure, simple, and personal. SecretDiary is built for users who value both minimalism and privacy in their everyday apps.
+
+Stay tuned for exciting new features — including biometric lock and cloud sync — as we continue to improve the app based on your feedback.
+
+
 
 ## ✨ Features
 
@@ -65,15 +84,6 @@ To run the project locally:
    ```bash
    git clone https://github.com/yourusername/SecretDiary.git
    cd SecretDiary
-
-
-
-
-
-
-
-🔒 Privacy Focused
-Your notes are stored only on your device. With the upcoming SecurityLock feature, you can keep your notes even more secure.
 
 
 
