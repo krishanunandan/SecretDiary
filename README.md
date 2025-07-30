@@ -14,11 +14,15 @@
 - 🗃️ Uses Room Database for local persistence
 -   Theming options (Dark & Light Mode)
 
+
+
 🚧 Coming Soon (Phase 2):
 - 🔐 App Lock with Fingerprint or PIN  
 - ☁️ Data sync with Google Drive  
 
 ---
+
+
 
 ## 🛠 Tech Stack
 
@@ -46,13 +50,14 @@
   <img src="screenshot/6.png" width="30%" />
 </p>
 
-<img src="screenshots/secret_diary_home.png" width="300" alt="Home Screen"/>
-
-*More screenshots can be added in a `screenshots/` folder.*
-
 ---
 
+
+
+
 ## 🚀 Getting Started
+
+
 
 To run the project locally:
 
@@ -61,8 +66,17 @@ To run the project locally:
    git clone https://github.com/yourusername/SecretDiary.git
    cd SecretDiary
 
+
+
+
+
+
+
 🔒 Privacy Focused
 Your notes are stored only on your device. With the upcoming SecurityLock feature, you can keep your notes even more secure.
+
+
+
 
 📅 Roadmap
  Core note management (CRUD) - Done
@@ -70,3 +84,10 @@ Your notes are stored only on your device. With the upcoming SecurityLock featur
  Biometric or PIN-based App Lock
 
  Google Drive data sync
+
+
+
+
+
+🤝 Contributions
+Contributions and suggestions are welcome! If you have an idea for a new feature, feel free to open an issue or pull request.
